@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_374399_corporate_employee_cg">x_374399_corporate_employee_cg</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>EMP</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 09:03:27</sys_created_on>
+        <sys_id>22b6520b83b30210349455a6feaad323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EMP</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_374399_corporate">050f3d4383330210349455a6feaad3b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</sys_scope>
+        <sys_update_name>sys_number_22b6520b83b30210349455a6feaad323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 09:03:27</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</application>
+        <file_path/>
+        <instance_id>fb6ede52db894e182f082a59139619f8</instance_id>
+        <instance_name>dev248345</instance_name>
+        <name>sys_number_22b6520b83b30210349455a6feaad323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_374399_corporate_employee_cg">x_374399_corporate_employee_cg</category><maximum_digits>5</maximum_digits><number>1000</number><prefix>EMP</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-08 09:03:27</sys_created_on><sys_id>22b6520b83b30210349455a6feaad323</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EMP</sys_name><sys_package display_value="Corporate Gifting" source="x_374399_corporate">050f3d4383330210349455a6feaad3b5</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</sys_scope><sys_update_name>sys_number_22b6520b83b30210349455a6feaad323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-08 09:03:27</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1719100142</payload_hash>
+        <record_name>EMP</record_name>
+        <reverted_from/>
+        <source>4700c28383330210349455a6feaad351</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 09:03:28</sys_created_on>
+        <sys_id>7ab6520b83b30210349455a6feaad34c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191313a95390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 09:03:28</sys_updated_on>
+        <type>Number</type>
+        <update_guid>7eb6520b5ab302101aaf9422517d794b</update_guid>
+        <update_guid_history>7eb6520b5ab302101aaf9422517d794b:-1719100142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 09:07:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>381a8f71d1134b30894a745f07b15900</sys_id>
+        <sys_metadata>22b6520b83b30210349455a6feaad323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EMP</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_374399_corporate">050f3d4383330210349455a6feaad3b5</sys_package>
+        <sys_parent display_value="">76c4160783b30210349455a6feaad340</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</sys_scope>
+        <sys_scope_delete display_value="">1dca8b083fdc4d558a0bb90990d8a3c1</sys_scope_delete>
+        <sys_update_name>sys_number_22b6520b83b30210349455a6feaad323</sys_update_name>
+        <sys_update_version display_value="sys_number_22b6520b83b30210349455a6feaad323">7ab6520b83b30210349455a6feaad34c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 09:07:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
