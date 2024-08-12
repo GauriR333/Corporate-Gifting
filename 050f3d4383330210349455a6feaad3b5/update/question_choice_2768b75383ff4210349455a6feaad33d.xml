@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>30</order>
+        <published_ref/>
+        <question display_value="Type of Award/Appreciation ">d177fb5383ff4210349455a6feaad357</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 10:49:41</sys_created_on>
+        <sys_id>2768b75383ff4210349455a6feaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Best Employee of the month (Rs. 500)</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_374399_corporate">050f3d4383330210349455a6feaad3b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</sys_scope>
+        <sys_update_name>question_choice_2768b75383ff4210349455a6feaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 10:49:41</sys_updated_on>
+        <text>Best Employee of the month (Rs. 500)</text>
+        <value>best_Employee_of_the_month</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=2768b75383ff4210349455a6feaad33d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>2768b75383ff4210349455a6feaad33d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 10:49:41</sys_created_on>
+        <sys_id>d8a8339783ff4210349455a6feaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 10:49:41</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>2768b75383ff4210349455a6feaad33d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 10:49:41</sys_created_on>
+        <sys_id>90a8339783ff4210349455a6feaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 10:49:41</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

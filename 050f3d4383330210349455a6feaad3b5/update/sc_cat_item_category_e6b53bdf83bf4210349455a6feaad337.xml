@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Raise E-Wallet Request for your Mentee">35c1b3db83bf4210349455a6feaad3ec</sc_cat_item>
+        <sc_category display_value="Corporate Policies/Benefits">dea5375f83bf4210349455a6feaad359</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 10:36:59</sys_created_on>
+        <sys_id>e6b53bdf83bf4210349455a6feaad337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Policies/Benefits.Raise E-Wallet Request for your Mentee</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_374399_corporate">050f3d4383330210349455a6feaad3b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">050f3d4383330210349455a6feaad3b5</sys_scope>
+        <sys_update_name>sc_cat_item_category_e6b53bdf83bf4210349455a6feaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 10:36:59</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
